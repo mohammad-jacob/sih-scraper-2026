@@ -9,7 +9,7 @@ The project uses **Selenium WebDriver** to interact with the SIH website, naviga
 ---
 ## Demo Video
 
-[![SIH 2026 Problem Statement Scraper Demo](https://img.youtube.com/vi/oV0Gv-9xMYo/sddefault.jpg )](https://youtu.be/oV0Gv-9xMYo)
+[![SIH 2026 Problem Statement Scraper Demo](https://img.youtube.com/vi/oV0Gv-9xMYo/maxresdefault.jpg)](https://youtu.be/oV0Gv-9xMYo)
 
 ---
 
